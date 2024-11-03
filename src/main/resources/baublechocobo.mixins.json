@@ -1,0 +1,15 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "net.shadowking21.baublechocobo.mixin",
+  "compatibilityLevel": "JAVA_8",
+  "refmap": "baublechocobo.refmap.json",
+  "mixins": [
+    "chococraft.ChococraftMixin"
+  ],
+  "client": [
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
